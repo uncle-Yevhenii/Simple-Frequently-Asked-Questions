@@ -79,5 +79,5 @@
 
 ## Автор
 
-- Вебсайт [your-website.com](https://{your-web-site-link})
-- GitHub [@uncle-Yevhenii](https://{github.com/uncle-Yevhenii})
+- Вебсайт [Живий сайт](https://simple-frequently-asked-questions.vercel.app/)
+- GitHub [@uncle-Yevhenii](https://github.com/uncle-Yevhenii)
