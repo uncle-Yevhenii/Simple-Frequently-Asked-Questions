@@ -31,7 +31,6 @@
   <!-- - [Useful resources](#useful-resources) -->
 - [Built with](#built-with)
 - [Features](#features)
-<!-- - [Contact](#contact) -->
 - [Acknowledgements](#acknowledgements)
 - [Author](#author)
 
@@ -81,4 +80,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Author
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@uncle-Yevhenii](https://{github.com/uncle-Yevhenii})
+- GitHub [@your-username](https://{github.com/your-usermame})
